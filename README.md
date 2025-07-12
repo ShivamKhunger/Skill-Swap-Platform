@@ -1,4 +1,9 @@
 # Problem Statement 1 - Skill Swap Platform
+## Team Members
+- **Shivam Khunger** — 22ucc095@lnmiit.ac.in
+- **Keshav Laddha** — keshavladdha005@gmail.com
+- **Shashwat Agarwal** — 22uec123@lnmiit.ac.in
+- **Virani Krish** — 22ucs227@lnmiit.ac.in
 ## Overview
 
 Develop a Skill Swap Platform — a mini application that enables users to list their skills and request others in return
